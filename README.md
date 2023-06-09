@@ -1,3 +1,8 @@
+# Postman
+
+Usuário administrador que é responsável por cadastrar os items do menu, os igredientes, dizer qual item tem qual ingrediente... Está no Postman. 
+
+Por questão de tempo, foi mais fácil fazer por lá do que via front-end.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
